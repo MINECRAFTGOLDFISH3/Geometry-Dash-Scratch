@@ -1,7 +1,7 @@
 {
   "name": "geometry-dash",
   "description": "geometry-dash",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "yarn",
     "start": "yarn run"
